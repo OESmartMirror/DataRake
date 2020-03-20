@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DataRake:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DataRake_jar</output-path>
+    <root id="archive" name="DataRake.jar">
+      <element id="module-output" name="DataRake" />
+    </root>
+  </artifact>
+</component>

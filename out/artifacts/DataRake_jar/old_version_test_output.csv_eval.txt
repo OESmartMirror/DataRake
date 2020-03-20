@@ -1,0 +1,5 @@
+Percent of mismatched users 0.7997256515775034
+Percent of mismatched users and their emotions 0.8996913580246914
+Index of first mismatch: 19 with distance of: 0.0
+Index of first mismatched user: 2206 with distance of: 0.493
+Index of first mismatch emotion: 19 with distance of: 0.0
